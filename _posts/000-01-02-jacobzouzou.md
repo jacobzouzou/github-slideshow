@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Todo: change this line
+Review by jacob ZOUZOU
 Use the left arrow to go back!
